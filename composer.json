@@ -9,12 +9,17 @@
         "ext-iconv": "*",
         "symfony/console": "7.0.*",
         "symfony/dotenv": "7.0.*",
+        "symfony/filesystem": "7.0.*",
         "symfony/flex": "^2",
         "symfony/framework-bundle": "7.0.*",
+        "symfony/http-client": "7.0.*",
+        "symfony/mailer": "7.0.*",
+        "symfony/monolog-bundle": "^3.10",
         "symfony/runtime": "7.0.*",
         "symfony/yaml": "7.0.*"
     },
     "require-dev": {
+        "symfony/maker-bundle": "^1.57"
     },
     "config": {
         "allow-plugins": {
